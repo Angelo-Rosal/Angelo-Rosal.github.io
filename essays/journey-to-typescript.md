@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Curiosity to Code"
+title: "Jurney Into Typescript"
 date: 2025-01-23
 published: true
 ---
