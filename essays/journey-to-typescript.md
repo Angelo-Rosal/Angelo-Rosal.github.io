@@ -16,7 +16,7 @@ Compared to C/C++, TypeScript is less intimidating. C/C++ is a much more complex
 
 Personally, coming in with a software engineering perspective, TypeScript is a more solid choice to use compared to most programming languages. It’s easier to understand language, making it easier for collaboration and personal creation. TypeScript also has a lot of excellent tools that everyone can utilize. However, it does add an initial learning curve that coders need to overcome to fully utilize TypeScript to its maximum. Nonetheless, TypeScript just seems more worth it in compared to other languages.
 
-# <img width="400px" class="TypeScript Screenshot" src="..img/Screenshot 2025-01-23 213653.jpg">
+# <img width="300px" src="/img/TypeScript-screenshot.png">
 
 ## WODs and It’s Importance
 
