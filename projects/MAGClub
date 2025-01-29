@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Copy of ISA logo.jpg
+image: img/Baldwin Highschool Logo.png
 title: "M.A.G. Club: President"
 date: 2021
 labels:
@@ -10,7 +10,7 @@ labels:
   - Management
 summary: "President of a High School Resistered Club"
 ---
-<img class="img-fluid" src="../img/Copy of ISA logo.jpg">
+<img src="..img/Baldwin Highschool Logo.png">
 
 ## About
 
