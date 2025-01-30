@@ -15,11 +15,11 @@ This was a project that I created that helps solve given Sodoku problems. In thi
 
 ## Reflection
 
-In this project I used various parameters and minor recursion to fullfill its duty. First I used a wide array of <code>if<code> statements in order to find if the problem is valid. I also used recursion to find the solution to the problem by calling itself and checking to see a valid input. 
+In this project I used various parameters and minor recursion to fullfill its duty. First I used a wide array of if statements in order to find if the problem is valid. I also used recursion to find the solution to the problem by calling itself and checking to see a valid input. 
 
 In this project my knowledge of Java greatly increased as it improved my insight to how recursion works and uses various Java syntax that will deem useful in future projects. 
 
-<script language=JavaScript>
+<pre>
 public class Sudoku {
 
   /* check that the sudoku rules hold in this sudoku puzzle.
@@ -176,11 +176,11 @@ public class Sudoku {
     return false;
   }
 }
-</script>
+</pre>
 
 ## Test Code
 
-<script language=JavaScript>
+<pre>
 public class SudokuTest {
 
   private static boolean isFilled(int [] [] sudoku)
@@ -333,5 +333,5 @@ public class SudokuTest {
 
   }
 }
-</script>
+</pre>
 
