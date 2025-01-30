@@ -9,7 +9,7 @@ labels:
   - Social
 summary: "Working in a leadership position for a Register Independent Organization (RIO)."
 ---
-<img class="img-fluid" src="../img/Copy of ISA logo.jpg">
+<img width="200px" class="img-fluid" src="../img/Copy of ISA logo.jpg">
 
 ## About
 International Student Organization, or ISA, is a social organization made for local and international students. The focus of this club is to help and encourage students to socialize with each other by providing a safe space that all cultures and diversities can join without discrimination. This helps to promote their culture and interest to further improve their insight upon local and international students. For me it showed me exactly what this club promoted, I was able to learn about various cultures and made friends that came from all over the world.
