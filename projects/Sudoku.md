@@ -1,13 +1,14 @@
 ---
 layout: project
 type: project
-image: img/Copy of ISA logo.jpg
+image: img/Sodoku-Image.png
 title: "Sodoku Solver"
 date: 2023-10-23
 labels:
   - Java
 summary: "Java code that helps find an answer to a given Sodoku problem."
 ---
+<img src=".../img/Sodoku-Image.png">
 
 ## About
 
