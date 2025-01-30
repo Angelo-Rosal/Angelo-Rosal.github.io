@@ -54,6 +54,24 @@
       ]
     },
   ],
+  "volunteer": [
+    {
+      "organization": "Igleshia Ni Cristo",
+      "website": "https://iglesianicristo.net/",
+      "position": "TSV(Technical Support for Video Streaming)",
+      "startDate": "2019",
+      "endDate": "",
+      "summary": "Helped the church with webex meetings during covid, as well as all the tech related inquires."
+    },
+    {
+      "organization": "Igleshia Ni Cristo",
+      "website": "https://iglesianicristo.net/",
+      "position": "Choir Member",
+      "startDate": "2011",
+      "endDate": "",
+      "summary": "Choir Member for the church"
+    }
+  ],
   "references": [
     {
       "name": "Available upon request"
