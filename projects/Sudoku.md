@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Copy of ISA logo.jpg
-title: "Sodoku Soulution Finder"
+title: "Sodoku Solver"
 date: 2023-10-23
 labels:
   - Java
