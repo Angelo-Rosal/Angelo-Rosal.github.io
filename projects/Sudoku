@@ -23,13 +23,6 @@ In this project my knowledge of Java greatly increased as it improved my insight
   <code>
     p { color: red; }
     body { background-color: #eee; }
-package hw11;
-/* 
- * find a solution to a Sudoku problem
- * @author	Biagioni, Edoardo
- * @date	October 23, 2013
- * @missing	fillSudoku, to be implemented by the students in ICS 211
- */
 public class Sudoku {
 
   /* check that the sudoku rules hold in this sudoku puzzle.
@@ -195,13 +188,6 @@ public class Sudoku {
   <code>
     p { color: red; }
     body { background-color: #eee; }
-package hw11;
-/* 
- * test a Sudoku solver
- * @author	Biagioni, Edoardo
- * @date	October 23, 2013
- * @bugs	none
- */
 public class SudokuTest {
 
   private static boolean isFilled(int [] [] sudoku)
