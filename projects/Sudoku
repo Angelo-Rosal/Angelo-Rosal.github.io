@@ -19,6 +19,7 @@ In this project I used various parameters and minor recursion to fullfill its du
 
 In this project my knowledge of Java greatly increased as it improved my insight to how recursion works and uses various Java syntax that will deem useful in future projects. 
 
+<body>
 <pre><code>
 public class Sudoku {
 
@@ -177,9 +178,11 @@ public class Sudoku {
   }
 }
 </code></pre>
+</body>
 
 ## Test Code
 
+<body>
 <pre><code>
 public class SudokuTest {
 
@@ -334,4 +337,5 @@ public class SudokuTest {
   }
 }
  </code></pre>
+</body>
 
