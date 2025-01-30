@@ -19,7 +19,7 @@ In this project I used various parameters and minor recursion to fullfill its du
 
 In this project my knowledge of Java greatly increased as it improved my insight to how recursion works and uses various Java syntax that will deem useful in future projects. 
 
-<pre>
+<code>
 public class Sudoku {
 
   /* check that the sudoku rules hold in this sudoku puzzle.
@@ -176,11 +176,11 @@ public class Sudoku {
     return false;
   }
 }
-</pre>
+</code>
 
 ## Test Code
 
-<pre>
+<code>
 public class SudokuTest {
 
   private static boolean isFilled(int [] [] sudoku)
@@ -333,5 +333,5 @@ public class SudokuTest {
 
   }
 }
-</pre>
+</code>
 
