@@ -8,7 +8,6 @@ labels:
   - Java
 summary: "Java code that helps find an answer to a given Sodoku problem."
 ---
-<img width="200px" src="..img/Sodoku-Image.png" class="img-thumbnail">
 
 ## About
 
