@@ -186,8 +186,8 @@ public class Sudoku {
     return false;
   }
 }
-  </code>
-</pre>
+  <code>
+<pre>
 
 ## Test Code
 
@@ -354,7 +354,7 @@ public class SudokuTest {
 
   }
 }
-  </code>
-</pre>
+  <code>
+<pre>
 
 
