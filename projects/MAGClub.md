@@ -10,7 +10,7 @@ labels:
   - Management
 summary: "President of a High School Resistered Club"
 ---
-<img width="200px" class="image-fluid" src="..img/Baldwin Highschool Logo.png">
+<img width="200px" src="..img/Baldwin Highschool Logo.png" class="img-thumbnail">
 
 ## About
 
