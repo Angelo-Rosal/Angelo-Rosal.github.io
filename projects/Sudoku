@@ -21,8 +21,6 @@ In this project my knowledge of Java greatly increased as it improved my insight
 
 <pre>
   <code>
-    p { color: red; }
-    body { background-color: #eee; }
 public class Sudoku {
 
   /* check that the sudoku rules hold in this sudoku puzzle.
@@ -179,15 +177,13 @@ public class Sudoku {
     return false;
   }
 }
-  <code>
-<pre>
+  </code>
+</pre>
 
 ## Test Code
 
 <pre>
   <code>
-    p { color: red; }
-    body { background-color: #eee; }
 public class SudokuTest {
 
   private static boolean isFilled(int [] [] sudoku)
@@ -340,7 +336,7 @@ public class SudokuTest {
 
   }
 }
-  <code>
-<pre>
+  </code>
+</pre>
 
 
