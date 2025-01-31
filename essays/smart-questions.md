@@ -38,3 +38,5 @@ In this question written as an example by ChatGPT we are given a question asking
 ## Summary
 
 Smart questions are essential for every software developer to use. Asking smart questions and not dumb questions can distinguish you from a bad software developer to a good one. By analyzing the two examples above we can deduce how important and useful asking smart questions are. It's through this practice I can comfortably express my needs and expect to get good responses that would help me further my knowledge of the software world.  
+
+AI used to find not smart question
