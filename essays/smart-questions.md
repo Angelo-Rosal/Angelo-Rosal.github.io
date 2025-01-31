@@ -6,7 +6,7 @@ date: 2025-01-22
 published: true
 ---
 
-Title: Be Smart and Ask Smart Questions
+<head> Be Smart and Ask Smart Questions </head>
 
 You may think software developers just sit behind a computer and don't speak to anyone, but actually software developers often communicate to help each other succeed. I didn't realize how often I would need to communicate with others in this field and I wanted to improve this skill. In the essay written by Eric S. Raymond called "How to Ask Questions The Smart Way" I was able to learn about how to effectively ask technical questions to other people in the tech field that will help me in my communication as well as to increase my likelihood of receiving a useful response. 
 
