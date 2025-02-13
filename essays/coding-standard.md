@@ -6,7 +6,7 @@ date: 2025-02-13
 published: true
 ---
 
-<img width="400px" src="..img/coding-standard.jpg">
+<img width="400px" src="..img/coding standard 2.png">
 
 To your typical software engineer you might think you should code how you seem fit. Although it may seem ethical for you to that, when you look at it in a collaborative state you should follow somewhat of a 'coding standard' in order to make your code more readable, accessible, and efficient. Coding standards can also provide a useful education tool, especially for beginners, internalizing the best practices in which to code. Following a coding standard can help make code do all of these points and if practiced efficiently can turn you into a better developer. This essay explores the importance of using a coding standard using my personal experiences and research I've done along the way using a coding standard. 
 
