@@ -22,7 +22,7 @@ Personally, I found it easier to use a UI Framework well coding specific things 
     <style>
         .hero {
             height: 400px;
-            background: url('https://placekitten.com/1200/400') center/cover no-repeat;
+            background-color: grey;
             color: grey;
             display: flex;
             align-items: center;
@@ -84,11 +84,11 @@ Personally, I found it easier to use a UI Framework well coding specific things 
             display: flex;
             justify-content: space-between;
             align-items: center;
-            background-color: grey;
+            background-color: #808080;
             padding: 15px 20px;
         }
         .navbar a {
-            color: white;
+            color: grey;
             text-decoration: none;
             padding: 8px 12px;
         }
@@ -97,16 +97,16 @@ Personally, I found it easier to use a UI Framework well coding specific things 
             gap: 15px;
         }
         .navbar a:hover {
-            background-color: #555;
+            background-color: #808080;
         }
         .hero {
             height: 400px;
-            background: url('https://placekitten.com/1200/400') center/cover no-repeat;
+            background-color: #808080;
             display: flex;
             align-items: center;
             justify-content: center;
             text-align: center;
-            color: white;
+            color: grey;
         }
         .container {
             width: 90%;
