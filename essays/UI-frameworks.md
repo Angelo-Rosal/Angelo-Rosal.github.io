@@ -10,8 +10,13 @@ Since the beginning of my interest in Computer Science, I've always had an inter
 
 ## Why Use a UI Framework?
 
-Personally, I found it easier to use a UI Framework well coding specific things compared to writing plain HTML and CSS. UI frame works give you pre-coded components that can help developers create user interfaces for apps and websites. UI frame works also makes it easier for developers due to its presets. An example of a side-by-side comparison of a page built with and without Bootstrap is:
+Personally, I found it easier to use a UI framework while coding specific things compared to writing plain HTML and CSS. UI frameworks give you pre-coded components that can help developers create user interfaces for apps and websites. UI frameworks also make it easier for developers due to its presets. Below, I’ve included a side-by-side comparison of a page built with and without Bootstrap:
 
+---
+
+## Side-by-Side Comparison: Bootstrap vs Plain HTML & CSS
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -162,5 +167,3 @@ Personally, I found it easier to use a UI Framework well coding specific things 
 
 </body>
 </html>
-
-yes
