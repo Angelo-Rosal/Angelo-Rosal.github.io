@@ -13,6 +13,13 @@ Since the beginning of my interest in Computer Science, I've always had an inter
 Personally, I found it easier to use a UI Framework well coding specific things compared to writing plain HTML and CSS. UI frame works give you pre-coded components that can help developers create user interfaces for apps and websites. UI frame works also makes it easier for developers due to its presets. An example of a side-by-side comparison of a page built with and without Bootstrap is:
 
 ## Bootstrap Example:
+code {
+  font-family: Consolas,"courier new";
+  color: crimson;
+  background-color: #f1f1f1;
+  padding: 2px;
+  font-size: 105%;
+}
 <code>
 <!DOCTYPE html>
 <html lang="en">
