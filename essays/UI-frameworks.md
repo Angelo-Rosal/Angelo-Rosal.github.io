@@ -23,7 +23,7 @@ Personally, I found it easier to use a UI Framework well coding specific things 
         .hero {
             height: 400px;
             background: url('https://placekitten.com/1200/400') center/cover no-repeat;
-            color: white;
+            color: grey;
             display: flex;
             align-items: center;
             justify-content: center;
@@ -64,7 +64,6 @@ Personally, I found it easier to use a UI Framework well coding specific things 
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
-</html>
 
 ## HTML & CSS Example:
 
@@ -85,7 +84,7 @@ Personally, I found it easier to use a UI Framework well coding specific things 
             display: flex;
             justify-content: space-between;
             align-items: center;
-            background-color: #333;
+            background-color: grey;
             padding: 15px 20px;
         }
         .navbar a {
