@@ -12,133 +12,155 @@ Since the beginning of my interest in Computer Science, I've always had an inter
 
 Personally, I found it easier to use a UI Framework well coding specific things compared to writing plain HTML and CSS. UI frame works give you pre-coded components that can help developers create user interfaces for apps and websites. UI frame works also makes it easier for developers due to its presets. An example of a side-by-side comparison of a page built with and without Bootstrap is:
 
-## Bootstrap Example:
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bootstrap Page</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>Bootstrap vs Plain HTML & CSS</title>
     <style>
-        .hero {
-            height: 400px;
-            background-color: grey;
-            color: grey;
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        code {
+            background-color: #f5f5f5;
+            padding: 2px 4px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-family: "Courier New", monospace;
+            font-size: 14px;
+        }
+        pre {
+            background-color: #f5f5f5;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-family: "Courier New", monospace;
+            font-size: 14px;
+            overflow-x: auto;
+        }
+        .container {
             display: flex;
-            align-items: center;
-            justify-content: center;
-            text-align: center;
+            gap: 20px;
+        }
+        .box {
+            width: 50%;
         }
     </style>
 </head>
 <body>
 
-<!-- Navbar -->
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <div class="container">
-        <a class="navbar-brand" href="#">My Site</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ms-auto">
-                <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">About</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
-            </ul>
-        </div>
+<h1>Teaching Bootstrap vs Plain HTML & CSS</h1>
+
+<p>Below, we compare two different approaches to building a simple webpage.</p>
+
+<div class="container">
+    <div class="box">
+        <h2>🚀 Using Bootstrap 5</h2>
+        <p>Bootstrap provides pre-designed components and responsive features. Here is the code for a simple **Bootstrap navbar** and a hero section:</p>
+
+        <pre><code>
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;title&gt;Bootstrap Example&lt;/title&gt;
+    &lt;link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;nav class="navbar navbar-expand-lg navbar-dark bg-dark"&gt;
+    &lt;div class="container"&gt;
+        &lt;a class="navbar-brand" href="#"&gt;MyBrand&lt;/a&gt;
+        &lt;button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"&gt;
+            &lt;span class="navbar-toggler-icon"&gt;&lt;/span&gt;
+        &lt;/button&gt;
+        &lt;div class="collapse navbar-collapse" id="navbarNav"&gt;
+            &lt;ul class="navbar-nav ms-auto"&gt;
+                &lt;li class="nav-item"&gt;&lt;a class="nav-link" href="#"&gt;Home&lt;/a&gt;&lt;/li&gt;
+                &lt;li class="nav-item"&gt;&lt;a class="nav-link" href="#"&gt;About&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/nav&gt;
+
+&lt;div class="container-fluid text-center text-white d-flex align-items-center justify-content-center" style="height: 400px; background: #444;"&gt;
+    &lt;h1&gt;Welcome to My Site&lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"&gt;&lt;/script&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+        </code></pre>
     </div>
-</nav>
 
-<!-- Hero Section -->
-<div class="hero">
-    <h1>Welcome to My Site</h1>
-</div>
+    <div class="box">
+        <h2>🎨 Using Plain HTML & CSS</h2>
+        <p>Without Bootstrap, we need **manual styling** for the navbar and hero section:</p>
 
-<!-- Content Section -->
-<div class="container my-5">
-    <h2>About Us</h2>
-    <p>We are a passionate team building awesome things using Bootstrap!</p>
-</div>
-
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-</body>
-
-## HTML & CSS Example:
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Plain CSS Page</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        body {
-            font-family: Arial, sans-serif;
-        }
+        <pre><code>
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;title&gt;Plain HTML & CSS Example&lt;/title&gt;
+    &lt;style&gt;
+        body { margin: 0; font-family: Arial, sans-serif; }
         .navbar {
             display: flex;
             justify-content: space-between;
-            align-items: center;
-            background-color: #808080;
-            padding: 15px 20px;
+            background: #333;
+            padding: 15px;
         }
         .navbar a {
-            color: grey;
+            color: white;
             text-decoration: none;
-            padding: 8px 12px;
-        }
-        .navbar .nav-links {
-            display: flex;
-            gap: 15px;
-        }
-        .navbar a:hover {
-            background-color: #808080;
+            padding: 10px;
         }
         .hero {
             height: 400px;
-            background-color: #808080;
+            background: #444;
             display: flex;
             align-items: center;
             justify-content: center;
-            text-align: center;
-            color: grey;
+            color: white;
         }
-        .container {
-            width: 90%;
-            max-width: 1200px;
-            margin: 50px auto;
-        }
-    </style>
-</head>
-<body>
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
 
-<!-- Navbar -->
-<nav class="navbar">
-    <a href="#">My Site</a>
-    <div class="nav-links">
-        <a href="#">Home</a>
-        <a href="#">About</a>
-        <a href="#">Contact</a>
+&lt;nav class="navbar"&gt;
+    &lt;a href="#"&gt;MyBrand&lt;/a&gt;
+    &lt;div&gt;
+        &lt;a href="#"&gt;Home&lt;/a&gt;
+        &lt;a href="#"&gt;About&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/nav&gt;
+
+&lt;div class="hero"&gt;
+    &lt;h1&gt;Welcome to My Site&lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+        </code></pre>
     </div>
-</nav>
-
-<!-- Hero Section -->
-<div class="hero">
-    <h1>Welcome to My Site</h1>
 </div>
 
-<!-- Content Section -->
-<div class="container">
-    <h2>About Us</h2>
-    <p>We are a passionate team building awesome things using plain HTML & CSS!</p>
-</div>
+<h2>📌 Key Differences</h2>
+
+<ul>
+    <li>✅ <strong>Bootstrap</strong> makes it easy to create a **responsive navbar** without extra CSS.</li>
+    <li>✅ <strong>Plain HTML & CSS</strong> requires manual **Flexbox styling** for positioning.</li>
+    <li>✅ <strong>Bootstrap's grid system</strong> makes **alignment and spacing easier**.</li>
+    <li>❌ Plain HTML & CSS requires **extra media queries** for responsiveness.</li>
+</ul>
 
 </body>
+</html>
 
-
-Yes
+yes
