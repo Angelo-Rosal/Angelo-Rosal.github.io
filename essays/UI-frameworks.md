@@ -152,16 +152,19 @@ Personally, I found it easier to use a UI framework while coding specific things
 &lt;/html&gt;
     </code></pre>
 </div>
-
-<h2>Key Takeaways</h2>
-<ul>
-    <li>✅ <strong>Bootstrap</strong> automatically provides responsive behavior and pre-styled components.</li>
-    <li>✅ <strong>Plain HTML & CSS</strong> gives full control, but requires manual styling.</li>
-    <li>✅ Bootstrap’s <code>navbar</code> handles collapsing for mobile out of the box.</li>
-    <li>❌ Plain HTML & CSS needs additional work to make the navbar responsive.</li>
-</ul>
-
 </body>
 </html>
+
+## Key Differences:
+
+<ul>
+    <li> Bootstrap provides pre-designed components and responsive features out of the box </li>
+    <li> Plain HTML & CSS requires more manual work for the layout, position, and styling </li>
+    <li> Plain HTML & CSS requires custom media queries and more CSS rules for responsiveness </li>
+    <li> With Bootstrap, you get prebuilt mobile-friendly navbar without additional work</li>
+</ul>
+
+Fried Chicken Test
+
 
 
