@@ -164,7 +164,11 @@ Personally, I found it easier to use a UI framework while coding specific things
     <li> With Bootstrap, you get prebuilt mobile-friendly navbar without additional work</li>
 </ul>
 
-Fried Chicken Test
+## Learning Curve
+
+In the beginning of learning Bootstrap I thought it would be easy. At first we were just intruduced to the basic HTML structure and the basic Bootstrap 5 syntax, but as we progressed into making more complex websites where we need to put nav-bars into nav-bars it starts to get confusing. Although the syntax is easy to pick up, as we try to add more stuff into our websites it gets harder to visualize and find the problems as to why it ends up looking the way it is. 
+
+Personally during a practice WOD I've took in my college class, I found it hard to recreate an intermediate website and often found my self frusterated in trying to find out why it ends up looking like it is. But as I progessed and did more practice I found it easier to understand and visualize. So UI Interfaces although initially hard, once you put your time and effort into it you will end up with an easier to manage UI framework that will make your coding faster and easier to manage.
 
 
 
