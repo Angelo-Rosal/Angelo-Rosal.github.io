@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflection on My Use of AI in ICS 314"
+title: "Reflection on AI Usage in ICS 314"
 date: 2025-05-10
 published: true
 ---
