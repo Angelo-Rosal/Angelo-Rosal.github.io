@@ -9,7 +9,7 @@ labels:
 summary: "ICS 314 group project web application that helps people schedule courts at the Warrior Recreation Center"
 ---
 
-<img width="300px" class="img-fluid" src="../img/GamePlan Web Screenshot.png">
+<img width="400px" class="img-fluid" src="../img/GamePlan Web Screenshot.png">
 
 ## About
 In my ICS 314 course me and a couple of other students were assigned to work on a school-related problem. The problem me and my group decided to work on was that at our university's gym, Warrior Recreation Center, we found that it was hard for students to get a chance to play and reserve a spot at open court rec volleyball/basketball. So in order to tackle this problem we decided to create an application that fixes this problem, creating a hub where interested players can sign up for time slots to play and look at the current score of the current game.
