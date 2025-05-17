@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/GamePlan Logo.jpg
+image: **img/GamePlan Logo.jpg**
 title: "Game Plan"
 date: 2025/04/15
 labels:
