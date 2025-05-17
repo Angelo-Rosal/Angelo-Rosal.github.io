@@ -20,3 +20,5 @@ In the beginning of our team’s planning, I was able to help lead our team towa
 ## What I Learned
 During this experience I was able to go through many problems and learned how to solve it. I learned that in a team setting it is essential for communication among the group members so that there is no overlap between everyone and so everyone knows exactly what they need to do and what is going on. I also learned and refined various software engineering skills like; React, HTML, TypeScript, Node.js, PgAdmin, and Vercel. This experience of going through these problems together with my team not only showed me the importance of each skill, but also gave me a stronger sense of these skills. I am happy with the turn out of this project and look forward brightly towards the future applying these skills and experience to further more challenging projects. 
 
+Link to deployed Vercel Application:
+<a href="game-plan-delta.vercel.app">GamePlan</a>
