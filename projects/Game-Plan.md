@@ -22,4 +22,3 @@ During this experience I was able to go through many problems and learned how to
 
 Link to deployed Vercel Application:
 <a href="https://game-plan-delta.vercel.app/">GamePlan</a>
-If link does not work please use this: game-plan-delta.vercel.app
